@@ -12,7 +12,7 @@ export default function FeatureSection() {
         <h2 className="text-4xl md:text-5xl text-gray-900">Natural Healing, Within Reach</h2>
         <p className="mt-4 text-lg text-gray-600">
           Take charge of your wellbeing with simple, effective, and holistic homeopathic remedies by
-          Evelin Kalls.
+          Evelin Kallas.
         </p>
       </div>
 
